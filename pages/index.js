@@ -27,7 +27,7 @@ export default function Home() {
 
           <a href="https://www.gmail.com/" className={styles.card}>
             <h3>Contact &rarr;</h3>
-            <p>Contact me and artists.</p>
+            <p>Contact me.</p>
           </a>
 
           <a
